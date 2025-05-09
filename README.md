@@ -1,7 +1,16 @@
 # 🏠 HOME ASSISTANT AUTOMATIONS
 [![PayPal Donation](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A) ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml) [![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
-Below I present my "Home Assistant" automations. All of them aim to simplify everyday life, save energy, and increase comfort and convenience at home.
+Welcome to my collection of Home Assistant automations!
+This repository includes a wide range of YAML-based automation scripts designed to enhance comfort, energy efficiency, and daily convenience within your smart home.
+
+🔧 All automations are tailored to real-life scenarios and tested in a production environment.
+📌 You'll find use cases such as voice control (Alexa/Google), device notifications, media controls, smart lighting, presence detection, and more.
+
+🌐 Multilingual Support: Most projects are available in both English and Bulgarian.
+📥 Feel free to explore, adapt, and contribute!
+
+✅ Home Assistant • ✅ Smart Home • ✅ YAML Automation
 
 ---
 
