@@ -1,5 +1,5 @@
 # 🏠 HOME ASSISTANT AUTOMATIONS
-[![PayPal Donation](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)[![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
+[![PayPal Donation](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A) ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml) [![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
 Below I present my "Home Assistant" automations. All of them aim to simplify everyday life, save energy, and increase comfort and convenience at home.
 
@@ -38,7 +38,7 @@ Below I present my "Home Assistant" automations. All of them aim to simplify eve
 
 <h3 align="right">
 
-[**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/homeassistant-automations.git)
+[**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-plug-notification.git)
 </h3>
 
 ---

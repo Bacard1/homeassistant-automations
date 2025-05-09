@@ -40,7 +40,7 @@
 
 <h3 align="right">
 
-[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/homeassistant-automations.git)
+[**↪️КЪМ ПРОЕКТА▶️**](https://github.com/Bacard1/HASS-plug-notification.git)
 </h3>
 
 ---
