@@ -21,6 +21,8 @@ This repository includes a wide range of YAML-based automation scripts designed 
   - [ℹ️ USEFUL INFORMATION:](#ℹ️-useful-information)
   - [🛠️ AUTOMATION PROJECTS](#️-automation-projects)
     - [🛜 NOTIFICATIONS VIA SMART PLUG](#-notifications-via-smart-plug)
+    - [🔋 HASS-AWAY-MODE / NO PRESENCE](#-hass-away-mode--no-presence)
+  - [](#)
 
 ---
 
@@ -50,6 +52,27 @@ This repository includes a wide range of YAML-based automation scripts designed 
 [**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-plug-notification.git)
 </h3>
 
+### 🔋 HASS-AWAY-MODE / NO PRESENCE
+**Advantages of this automation:**
+- *💡 Energy efficiency*
+- *🧘 Peace of mind and safety*
+- *🌡️ Temperature management*
+- *🎛️ Centralized control*
+- *📱 Real-time notifications*
+- *📦 Easy integration and scalability*
+- *🧠 Smart absence detection*
+
+---
+---
+
+<p align="center">✅ Home Assistant • ✅ Smart Home • ✅ YAML</p>
+
+![Away Mode Automation](/img/away_mod_banner.png)
+
+<h3 align="right">
+
+[**↪️TO THE PROJECT▶️**](https://github.com/Bacard1/HASS-away-mode)
+</h3>
 ---
 ---
 > [!TIP]
